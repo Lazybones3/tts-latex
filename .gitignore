@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+*.zip
+config.json
+*.pth
+*.txt
+*.wav
